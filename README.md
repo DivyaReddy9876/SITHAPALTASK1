@@ -142,3 +142,6 @@ loaded_store = VectorStore.load('path/to/store')
 
 ## Disclaimer
 This toolkit is designed for research and educational purposes. Always respect copyright and usage rights of source documents.
+
+
+
